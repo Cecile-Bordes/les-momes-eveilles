@@ -32,6 +32,9 @@ $ npm install popper.js jquery
 $ npm install --save-dev sass sass-loader
 $ npm install bootstrap@4.5.3
 $ npm install vue bootstrap-vue
+$ npm install -g sass
+$ cd src/assets
+$ sass  --watch app.scss:app.css
 $ npm run serve
 ```
 
