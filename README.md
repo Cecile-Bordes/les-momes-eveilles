@@ -28,8 +28,11 @@ Accès
 $ npm install -g @vue/cli
 $ vue create les-momes-eveilles
 $ cd my-project
+$ npm install popper.js jquery
+$ npm install --save-dev sass sass-loader
+$ npm install bootstrap@4.5.3
+$ npm install vue bootstrap-vue
 $ npm run serve
-$ npm install bootstrap popper.js jquery
 ```
 
 ## Concept du Projet
