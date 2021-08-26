@@ -1,4 +1,13 @@
-@import 'node_modules/bootstrap/scss/bootstrap.scss';
-@import 'node_modules/bootstrap-vue/src/index.scss';
-//@import '~bootstrap/scss/bootstrap.scss';
-//@import '~bootstrap-vue/src/index.scss';
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+// Variables
+@import 'variables';
+
+$theme-colors: (
+  "primary": $primary,
+  "danger": $danger
+);
+
+
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+@import '../../node_modules/bootstrap-vue/src/index.scss';
