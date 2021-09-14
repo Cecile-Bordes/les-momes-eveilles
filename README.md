@@ -34,7 +34,9 @@ $ npm install bootstrap@4.5.3
 $ npm install vue bootstrap-vue
 $ npm install -g sass
 $ cd src/assets
-$ sass  --watch app.scss:app.css
+$ sass  --watch app.scss:app.css --style compressed
+$ npm install vue-masonry
+$ npm i vue-masonry-wall
 $ npm run serve
 ```
 
@@ -49,7 +51,8 @@ $ npm run serve
 N°1
 
 ```javascript
-exemple code
+Dans VS Code
+Ajouter les extensions : Live Sass Compiler
 ```
 
 ## Tests
