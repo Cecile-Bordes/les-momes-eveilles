@@ -33,10 +33,12 @@ $ npm install --save-dev sass sass-loader
 $ npm install bootstrap@4.5.3
 $ npm install vue bootstrap-vue
 $ npm install -g sass
+$ npm install vue-masonry
+$ npm i vue-masonry-wall // Masonry en Vue.js
+$ npm i vue-horizontal-list // Carroussel en Vue.js
+$ npm install aos --save // Animations en Vue.js
 $ cd src/assets
 $ sass  --watch app.scss:app.css --style compressed
-$ npm install vue-masonry
-$ npm i vue-masonry-wall
 $ npm run serve
 ```
 

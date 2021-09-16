@@ -24,8 +24,30 @@ export default {
     data() {
       return {
         items: [
-          {title: 'Item 0', content: 'Content', image: Image1},
-          {title: 'Item 1', content: 'Content', image: require('@/assets/img/actualites/02-jonglage.jpg')},
+          {
+            title: 'Les Pépites Sonores - Le Sax', 
+            content: 'Du 27 mars au 15 avril, le festival de musique dédié aux enfants et à la famille présente 12 spectacles à découvrir au Sax à Achères mais aussi chez nos voisins et partenaires : La ville d’ Andrésy, Le Château Ephémère à Carrière-sous-Poissy, la ville de Chanteloup-les-Vignes, Le Story-Boat à Conflans-Saint-Honorine, la Médiathèque Christine de Pizan à Poissy et le Festival Les Francos. Petites et grandes oreilles s’ouvriront à de nouvelles explorations sonores : sieste électro-acoustique, conte musical, ballades sonores, ciné-concert, musique et arts numériques aux saveurs jazzy, funk ou baroque en passant par la chanson. De la musique et encore de la musique avec des temps de résidences de création, des ateliers de pratiques artistiques et de palpitantes rencontres.', 
+            description: '',
+            image: Image1
+          },
+          {
+            title: 'Festival rencontre des jonglages', 
+            content: 'La  Rencontre des Jonglages arpentera du 21 mars au 22 avril 2018 toute l’Ile de France, d’Evry à Garges, d’Aubervilliers à Saint- Denis et de Paris à la Courneuve pour des petits et grands écarts jonglés. En investissant les monuments, les rues, les places, le pavé et la plage, le jonglage se joue de l’espace urbain et réinvente un art très public.', 
+            description: '',
+            image: require('@/assets/img/actualites/02-jonglage.jpg')
+          },
+          {
+            title: 'Salle Mômes !', 
+            content: 'À l\'intérieur du Centre commercial Vill Up, le cinéma Pathé La Villette accueille les familles avec une salle IMAX et un son DOLBY ATMOS. Sa Salle Mômes ! est réservée aux enfants de 2 à 14 ans pour une sortie 7e art adaptée aux plus jeunes.', 
+            description: '',
+            image: require('@/assets/img/actualites/03-salle-momes.jpg')
+          },
+          {
+            title: 'Salle Mômes !', 
+            content: 'À l\'intérieur du Centre commercial Vill Up, le cinéma Pathé La Villette accueille les familles avec une salle IMAX et un son DOLBY ATMOS. Sa Salle Mômes ! est réservée aux enfants de 2 à 14 ans pour une sortie 7e art adaptée aux plus jeunes.', 
+            description: '',
+            image: require('@/assets/img/actualites/03-salle-momes.jpg')
+          },
         ]
       }
     },

@@ -5,13 +5,45 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="icon" href="<%= BASE_URL %>favicon.ico">
-    <title><%= htmlWebpackPlugin.options.title %></title>
+    <title>Les mômes éveillés</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
     <script async defer src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.0.0/masonry.pkgd.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <link rel="stylesheet" href="./assets/sass/app.css">
+    <script type="application/ld+json">
+      {
+          "@context":"https://schema.org",
+          "@type":"Articles",
+          "mainEntityOfPage":{
+              "@type":"WebPage",
+              "@id":https://www.les-momes-eveilles.com/
+          },
+          "headline":"Les mômes éveillés !",
+          "description":"Des p'ti gars et des p'tites fifilles, curieux, bien réveillés et plein de vie. l'ouverture aux autres et le respect des différences est une chance pour les enfants.",
+          "articleBody":"",
+          "publisher":{
+              "@type":"Organization",
+              "name":"Les mômes éveillés",
+              "logo":{
+                  "@type":"ImageObject",
+                  "url":"./assets/img/logo.png","height":"550","width":"500"
+              }
+          },
+          "author":{
+              "@type":"Person","name":"Cécile Bordes"
+          },
+          "datePublished":"2021-09-04T00:00:00Z","dateModified":"2021-09-05T00:00:00Z",
+          "image":{
+              "@type":"ImageObject",
+              "url":https://www.les-momes-eveilles.com/
+          }
+      }
+  </script> 
+  <link rel = "manifest" href = "/manifest.json">
   </head>
   <body>
-    <noscript>
-      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-    </noscript>
     <div id="app"></div>
     <!-- built files will be auto injected -->
   </body>
