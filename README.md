@@ -24,6 +24,10 @@ Accès
 
 ## Install
 
+Installer NodeJs en allant sur le site https://nodejs.org/en/ et en le téléchargeant.
+Lancer git bash
+Ecrire les lignes suivantes : 
+
 ```javascript
 $ npm install -g @vue/cli
 $ vue create les-momes-eveilles
@@ -31,16 +35,19 @@ $ cd my-project
 $ npm install popper.js jquery
 $ npm install --save-dev sass sass-loader
 $ npm install bootstrap@4.5.3
-$ npm install vue bootstrap-vue
+$ npm install vue bootstrap-vue //uniquement pour démarrer sass (bootstrap-sass)
 $ npm install -g sass
+$npm install tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
+$ ./node_modules/.bin/tailwind init tailwind.js // création du fichier tailwind.js
 $ npm install vue-masonry
 $ npm i vue-masonry-wall // Masonry en Vue.js
 $ npm i vue-horizontal-list // Carroussel en Vue.js
 $ npm install aos --save // Animations en Vue.js
 $ cd src/assets
-$ sass  --watch app.scss:app.css --style compressed
+$ sass  --watch tailwind.scss:tailwind.css --style compressed
 $ npm run serve
 ```
+Si besoin de désinstaller : npm uninstall ...
 
 ## Concept du Projet
 
@@ -54,7 +61,7 @@ N°1
 
 ```javascript
 Dans VS Code
-Ajouter les extensions : Live Sass Compiler
+Ajouter les extensions : Live Sass Compiler et Vetur
 ```
 
 ## Tests

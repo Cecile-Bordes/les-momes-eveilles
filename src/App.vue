@@ -1,5 +1,8 @@
 <template>
-  <div id="app">    
+  <div id="app">   
+    <div class="bg-purple text-white sm:bg-green md:bg-blue md:text-yellow lg:bg-red xl:bg-orange ...">
+        Test
+    </div> 
     <vue-masonry-wall :items="items" :options="{width: 300, padding: 12}" @append="append">
       <template v-slot:default="{item}">
         <article>
