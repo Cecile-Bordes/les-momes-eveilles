@@ -7,6 +7,7 @@ import App from './App.vue'
 
 // import ES6 style
 import {VueMasonryPlugin} from 'vue-masonry';
+import './assets/sass/tailwind.css'
 
 // or using CJS 
 // const VueMasonryPlugin = require('vue-masonry').VueMasonryPlugin
