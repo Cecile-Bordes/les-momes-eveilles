@@ -2,8 +2,22 @@
 @tailwind components;
 @tailwind utilities;
 
-// Variables
-@import 'variables';
+// INIT
+@import "init/variables";
+@import "init/layout";
+
+// MODULES
+
+@import "modules/fonts";
+@import "modules/typography";
+
+// REGIONS
+
+@import "regions/header";
+
+// COMMON
+
+@import "common";
 
 $breakpoints: (
 	'small': 991px,
@@ -24,18 +38,6 @@ $breakpoints: (
 	}
 }
 
-*,
-*::before,
-*::after {
-	box-sizing: border-box;
-	-moz-osx-font-smoothing: grayscale;
-	-webkit-font-smoothing: antialiased;
-	text-rendering: optimizeLegibility;
-}
-body {
-	font-family: $font-family-sans-serif;
-	background-color:$body-bg;
-}
 .clear {
 	clear: both;
 }
@@ -58,3 +60,5 @@ body {
     justify-content: center;
     max-width: var(--card-container-width);
   }
+
+

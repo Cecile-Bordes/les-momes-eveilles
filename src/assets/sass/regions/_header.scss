@@ -1,0 +1,10 @@
+.header {
+  &__logo {
+    transform: translate3d(-50%, -50%, 0);
+  }
+  @media screen and (min-width: $laptop) {
+    .sm\:hidden {
+      display: none;
+    }
+  }
+}

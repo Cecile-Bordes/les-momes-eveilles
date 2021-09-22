@@ -1,66 +1,40 @@
 <template>
   <div id="app">   
-      <header></header>
+      <header-top></header-top>
       <main>
-          <section>
-              <div id="homepage-header" class="w-full">
-                  <div class="relative flex flex-col pt-10 min-h-96 h-screen md:h-85 bg-black">
-                      <span class="absolute top-0 right-0 bottom-0 left-0 header-img bg-gradient"></span> 
-                      <div class="relative flex flex-col justify-center pt-20 md:pt-0 sm:my-auto">
-                        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-                          <div class="relative py-12 sm:py-0">
-                            <div class="text-center mb-20">
-                              <h1 class="mt-1
-                                text-3xl
-                                leading-10
-                                font-extrabold
-                                text-gray-900
-                                md:text-5xl md:leading-normal md:tracking-tight
-                                lg:text-5xl">
-                              Les mômes éveillés
-                            </h1>
-                            <p class="text-gray-500 text-2xl font-medium pt-4">
-                              Les mômes éveillés : Des p'ti gars et des p'tites fifilles, curieux, bien réveillés et plein de vie. 
-                                  l'ouverture aux autres et le respect des différences est une chance pour les enfants. 
-                                  Nous aimons les petits bonheurs simples de la vie, la nature, la bonne bouffe, la musique, les voyages... 
-                                  Une devise ? c'est meilleur quand on partage !!!
-                            </p> 
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-          </section>
-          <section>
-              <vue-masonry-wall :items="items" :options="{width: 300, padding: 0}" @append="append">
-                  <template v-slot:default="{item}">
-                      <article class="slick-slide slick-active" style="outline: currentcolor none medium; width: 300px;">
-                              <a href="#" target="_blank" rel="noopener noreferrer nofollow" class="hover:opacity-75">
-                                  <div class="flex items-center px-4 py-3 border border-gray-200">
-                                          <div class="ml-3">
-                                              <span class="text-gray-600 text-xs block">{{item.map}} - {{item.date}}</span>
-                                            </div>
-                                  </div> 
-                                  <div class="flex-shrink-0">
-                                        <img :src="item.image" :alt="item.title" loading="lazy" class="w-full h-full object-center object-cover">
-                                  </div> 
-                                  <div class="flex-1 p-6 flex flex-col justify-between">
-                                        <div class="flex-1">
-                                            <div class="block">
-                                                <h4 class="text-xl font-semibold text-gray-900 truncate">
-                                                    {{item.title}}
-                                                </h4> 
-                                                <p class="mt-3 text-base text-gray-500">
-                                                    {{item.content}}
-                                                </p>
-                                            </div>
-                                        </div>
-                                  </div>
-                              </a>
-                      </article>
-                  </template>
-            </vue-masonry-wall>
+          <router-view></router-view>
+          <div class="my-6 w-full  border-t border-gray-300 container mx-auto my-12 sm:my-24"></div>
+          <section class=" px-4 sm:px-0">
+              <div class="container mx-auto relative grid grid-cols-2 sm:grid-cols-4 gap-4 sm:gap-8">
+                <vue-masonry-wall :items="items" :options="{width: 300, padding: 0}" @append="append">
+                    <template v-slot:default="{item}">
+                        <article class="cursor-pointer m-2 duration-500 ease-in-out transform hover:-translate-y-1 relative origin-center transition-all hover:opacity-75 shadow-md sm:h-128 bg-center overflow-hidden">
+                                <a href="#" target="_blank" rel="noopener noreferrer nofollow" class="hover:opacity-75">
+                                    <div class="flex items-center px-4 py-3 border border-gray-200">
+                                            <div class="ml-3">
+                                                <span class="text-gray-600 text-xs block">{{item.map}} - {{item.date}}</span>
+                                              </div>
+                                    </div> 
+                                    <div class="flex-shrink-0">
+                                          <img :src="item.image" :alt="item.title" loading="lazy" class="w-full h-full object-center object-cover">
+                                    </div> 
+                                    <div class="flex-1 p-6 flex flex-col justify-between">
+                                          <div class="flex-1">
+                                              <div class="block">
+                                                  <h4 class="text-xl font-semibold text-gray-900 truncate">
+                                                      {{item.title}}
+                                                  </h4> 
+                                                  <p class="mt-3 text-base text-gray-500">
+                                                      {{item.content}}
+                                                  </p>
+                                              </div>
+                                          </div>
+                                    </div>
+                                </a>
+                        </article>
+                    </template>
+              </vue-masonry-wall>
+            </div>
           </section>
       </main>
       <footer></footer>
@@ -68,13 +42,18 @@
 </template>
 
 <script>
+import Header from './components/Header.vue'
+
 import VueMasonryWall from "vue-masonry-wall";
 
 import Image1 from '@/assets/img/actualites/01-les-pepites-sonores-le-sax.jpg'
 
 export default {
   name: 'App',
-  components: {VueMasonryWall},
+  components: {
+      VueMasonryWall,
+      'header-top' : Header,
+    },
     data() {
       return {
         items: [

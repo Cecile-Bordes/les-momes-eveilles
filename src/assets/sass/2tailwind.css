@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,*::before,*::after{box-sizing:border-box;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}body{font-family:"Open Sans",sans-serif;background-color:#FFF}.clear{clear:both}
+.header-img{background-position:50%;background-image:url(../img/pochettes/pochette4.jpg);background-size:cover}.masonry-wall{display:grid;-webkit-column-gap:5px;-moz-column-gap:5px;column-gap:5px;row-gap:7px;grid-template-columns:repeat(3, 400px);-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;max-width:var(--card-container-width)}/*# sourceMappingURL=tailwind.css.map */

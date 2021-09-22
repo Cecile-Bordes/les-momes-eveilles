@@ -32,18 +32,17 @@ Ecrire les lignes suivantes :
 $ npm install -g @vue/cli
 $ vue create les-momes-eveilles
 $ cd my-project
+$ npm install vue-router // On peut faire une single page avec VueRouter qui suivant l'url va charger certains composants https://router.vuejs.org/
 $ npm install popper.js jquery
 $ npm install --save-dev sass sass-loader
-$ npm install bootstrap@4.5.3
-$ npm install vue bootstrap-vue //uniquement pour démarrer sass (bootstrap-sass)
 $ npm install -g sass
-$npm install tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
+$ npm install tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
 $ ./node_modules/.bin/tailwind init tailwind.js // création du fichier tailwind.js
 $ npm install vue-masonry
 $ npm i vue-masonry-wall // Masonry en Vue.js
 $ npm i vue-horizontal-list // Carroussel en Vue.js
 $ npm install aos --save // Animations en Vue.js
-$ cd src/assets
+$ cd src/assets/sass
 $ sass  --watch tailwind.scss:tailwind.css --style compressed
 $ npm run serve
 ```
