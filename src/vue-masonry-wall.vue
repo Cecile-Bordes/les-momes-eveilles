@@ -44,19 +44,6 @@
         required: true
       },
 
-      /**
-       * Options to config masonry.
-       *
-       * {
-       *     width: 300,
-       *     padding: {
-       *         default: 12,
-       *         1: 6,
-       *         2: 8,
-       *     },
-       *     throttle: 300
-       * }
-       */
       options: {
         type: Object,
         required: false

@@ -56,25 +56,15 @@ Si besoin de désinstaller : npm uninstall ...
 
 ## Example
 
-N°1
 
 ```javascript
 Dans VS Code
 Ajouter les extensions : Live Sass Compiler et Vetur
 ```
+### Rendu
 
-## Tests
 
-Jouer les tests suivants:
-
-```bash
-# install dependencies
-$ npm install
-```
-
-## Changelog
-
-- [View changelog](https://github.com/Cecile-Bordes/les-momes-eveilles/main/CHANGELOG.md)
+[![ les-momes-eveilles screenshot](page-destop.jpg)](https://Cecile-Bordes.github.io/les-momes-eveilles/Rendu/)
 
 ## License
 

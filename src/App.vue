@@ -3,9 +3,20 @@
       <header-top></header-top>
       <main>
           <router-view></router-view>
-          <div class="my-6 w-full  border-t border-gray-300 container mx-auto my-12 sm:my-24"></div>
+          <div class="my-6 w-full container mx-auto my-12 sm:my-24"></div>
+          <div class="md:mt-5 mb-16 md:mb-20 lg:mb-24 text-center">
+              <div class="h-56 w-56 rounded-full overflow-hidden mx-auto">
+                  <div class="aspect-w-1 aspect-h-1">
+                      <img src="@/assets/img/actualites/66-shambala13.jpg" alt="profile image" class="object-cover">
+                  </div>
+              </div>
+              <h3 class="mx-auto px-6 sm:px-16 font-butler text-secondary text-2xl sm:text-3xl md:text-4xl xl:text-5xl text-center leading-tight mt-12">
+                  Ici, ce sera un echange de bons plans sorties, concerts et festivals pour que nos enfants s'éveillent.
+              </h3>
+          </div>
           <section class=" px-4 sm:px-0">
               <div class="container mx-auto relative grid grid-cols-2 sm:grid-cols-4 gap-4 sm:gap-8">
+                <h2 class="font-hkbold text-secondary text-lg mt-8 md:mt-12">Le calendrier</h2>
                 <vue-masonry-wall :items="items" :options="{width: 300, padding: 0}" @append="append">
                     <template v-slot:default="{item}">
                         <article class="cursor-pointer m-2 duration-500 ease-in-out transform hover:-translate-y-1 relative origin-center transition-all hover:opacity-75 shadow-md sm:h-128 bg-center overflow-hidden">
@@ -168,6 +179,278 @@ export default {
             content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
             description: '',
             image: require('@/assets/img/actualites/14-centre-pompidou.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/15-exploradome.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/16-babel-minot.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/17-193soleil5.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/18-teatralia.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/19-contes.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/20-premieres-rencontres.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/21-escape-game.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/22-festival-oeil-de-momes.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/23-festival-culture-momes.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/24-moult-ronds-cie-switch.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/25-semaines-petite-enfance.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/25-tres-tot-theatre.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/29-kernel.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/30-la-croisee-des-chemins.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/31-ouragane.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/32-1-0-1.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/33-festival-brie-art.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/34-festival-franco.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/35-forenia.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/36-compagnie-ours.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/37-theatre-guimbarde.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/38-bambino.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/39-philharmonie.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/40-de-mains.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/41-festival-contes.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/42-festival-o4vents.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/43-festival-parades.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/44-festival-ptites-oreilles.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/45-curieux.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/46-bretagne.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/47-chaboti.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/48-teamlab.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/49-place-aux-marmots.jpg')
+          },
+          {
+            title: 'Festival Chorus des enfants', 
+            map: 'A Boulogne (92)',
+            date: 'Du 7 au 8 avril',
+            content: '@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\'a eu de cesse d\'offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.', 
+            description: '',
+            image: require('@/assets/img/actualites/50-rock-ici-momes.jpg')
           },
         ]
       }
