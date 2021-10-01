@@ -1,5 +1,5 @@
 <template>
-      <header>
+      <header role="banner" aria-label="Entête de page">
           <div class="relative w-full">
               <div class="w-full">
                   <div class="mx-auto relative container z-30">
@@ -22,7 +22,7 @@
                                   <router-link to="/fabrique" class="text-lg mr-12  font-bold hover:underline">La Fabrique</router-link>
                               </li> 
                             </ul> 
-                            <button class="relative flex items-center text-blue-900 my-auto mr-2 focus:outline-none">
+                            <button aria-label="Menu Burger" class="relative flex items-center text-blue-900 my-auto mr-2 focus:outline-none">
                               <div class="w-5">
                                   <div class="w-full border-t  mb-2 origin-top ease-in-height duration-300 top-0 relative border-blue-900"></div> 
                                   <div class="w-full border-t  mb-2 origin-top ease-in-height duration-300 top-0 relative border-blue-900"></div> 
@@ -30,7 +30,7 @@
                               </div>
                             </button> 
                             <div class="fixed h-0 flex top-0 left-0 origin-top-right overflow-hidden  z-50 transition-all duration-500 ease-in-out bg-white w-full shadow h-0">
-                                <button class="absolute top-0 right-0 flex items-center text-blue-900 m-6 focus:outline-none">
+                                <button aria-label="Menu Burger" class="absolute top-0 right-0 flex items-center text-blue-900 m-6 focus:outline-none">
                                     <div class="w-5">
                                         <div class="w-full border-t border-blue-900 mb-2 origin-top ease-in-height duration-300 top-0 relative"></div> 
                                         <div class="w-full border-t border-blue-900 mb-2 origin-top ease-in-height duration-300 top-0 relative"></div> 
@@ -58,8 +58,11 @@
 
 export default {
   name: 'Header',
-  data(){
-  },
+  data() {
+        return {
+             
+        }
+    },
   methods: {
   },
   components: {
