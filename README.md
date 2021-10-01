@@ -11,15 +11,14 @@ Accès
 ```
 
 
-:bulb: **Développé avec :vuejs,html5,bootstrap,css3,sass,masonry,pwas** 
+:bulb: **Développé avec :vuejs,html5,tailwincss,css3,sass,masonry,pwa** 
 
 ## Table des matières
 
 - [Install](#install)
 - [Concept du Projet](#options)
-  - [Masonry](#Masonry)
-- [Tests](#tests)
-- [Changelog](#changelog)
+- [Rendu](#rendu)
+- [Vérifications](#verifications)
 - [License](#license)
 
 ## Install
@@ -65,6 +64,14 @@ Ajouter les extensions : Live Sass Compiler et Vetur
 
 
 [![ les-momes-eveilles screenshot](page-destop.jpg)](https://Cecile-Bordes.github.io/les-momes-eveilles/Rendu/)
+
+### Vérifications
+
+- **La page est responsive, fonctionne sur Chrome, Firefox, Edge.**:
+- **Le score au niveau des indicateurs de chrome lighthouse**:
+- **Validation W3C : https://validator.w3.org/#validate_by_upload**:
+- **Vérification chargement page : https://developers.google.com/speed/pagespeed/insights/?hl=fr**:
+- **Convertisseur WEBP : https://www.onlineimagetool.com/fr/convert-png-jpg-webp-gif#**:
 
 ## License
 
