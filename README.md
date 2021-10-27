@@ -40,6 +40,8 @@ $ ./node_modules/.bin/tailwind init tailwind.js // création du fichier tailwind
 $ npm install vue-masonry
 $ npm i vue-masonry-wall // Masonry en Vue.js
 $ npm i vue-horizontal-list // Carroussel en Vue.js
+$ npm install axios // import de json
+$ npm install json loader // lecture json
 $ npm install aos --save // Animations en Vue.js
 $ cd src/assets/sass
 $ sass  --watch tailwind.scss:tailwind.css --style compressed
