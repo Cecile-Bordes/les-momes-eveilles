@@ -13,7 +13,7 @@
                                         <div class="ml-3">
                                             <span class="text-gray-600 text-xs block">
                                                 {{item.map}} - 
-                                                <strong>{{date}}</strong>
+                                                <strong>{{spectacle.date}}</strong>
                                             </span>
                                         </div>
                                     </div> 
@@ -24,17 +24,17 @@
                                               <!--<span :key="image" v-for="image in spectaclesimages"> 
                                                 <img :src="letterIcon(image)" />
                                               </span>-->
-                                              <!--{{item.image}}-->
+                                              {{spectacle.image}}
                                           </picture>
                                     </div> 
                                     <div class="flex-1 p-6 flex flex-col justify-between">
                                           <div class="flex-1">
                                               <div class="block">
                                                   <h3 class="text-xl font-semibold text-gray-900 truncate">
-                                                      {{title}}
+                                                      {{spectacle.titre}}
                                                   </h3> 
                                                   <p class="mt-3 text-base text-gray-500">
-                                                      {{content}}
+                                                      {{spectacle.description}}
                                                   </p>
                                               </div>
                                           </div>
@@ -66,18 +66,16 @@ export default {
     computed: {
         spectacles() {
           return eventsData.spectacles.map((item) => {
-            this.title = item.title;
-            this.content = item.content;
-            this.date = item.date;
-            this.map = item.map;
             //this.image = require("@"+item.image);
+            return {
+                description: item.content,
+                titre: item.title,
+                date: item.date,
+                map: item.map,
+                image: item.image,
+            };
           })
         },
-        spectaclescontents() {
-          return eventsData.spectacles.map((item) => {
-            return item.content;
-          })
-        }
       },
     methods: {
           append() {
