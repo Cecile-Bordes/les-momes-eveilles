@@ -6,8 +6,8 @@
             "date" : "",
             "content" : "Du 27 mars au 15 avril, le festival de musique dédié aux enfants et à la famille présente 12 spectacles à découvrir au Sax à Achères mais aussi chez nos voisins et partenaires : La ville d’ Andrésy, Le Château Ephémère à Carrière-sous-Poissy, la ville de Chanteloup-les-Vignes, Le Story-Boat à Conflans-Saint-Honorine, la Médiathèque Christine de Pizan à Poissy et le Festival Les Francos. Petites et grandes oreilles s’ouvriront à de nouvelles explorations sonores : sieste électro-acoustique, conte musical, ballades sonores, ciné-concert, musique et arts numériques aux saveurs jazzy, funk ou baroque en passant par la chanson. De la musique et encore de la musique avec des temps de résidences de création, des ateliers de pratiques artistiques et de palpitantes rencontres.", 
             "description" : "",
-            "image" : "/assets/img/actualites/01-les-pepites-sonores-le-sax.jpg",
-            "imagewebp" : "/assets/img/actualites/01-les-pepites-sonores-le-sax.webp"
+            "image" : "/img/actualites/01-les-pepites-sonores-le-sax.jpg",
+            "imagewebp" : "/img/actualites/01-les-pepites-sonores-le-sax.webp"
           },
           {
             "title" : "Festival rencontre des jonglages", 
@@ -15,8 +15,8 @@
             "date" : "",
             "content" : "La  Rencontre des Jonglages arpentera du 21 mars au 22 avril 2018 toute l’Ile de France, d’Evry à Garges, d’Aubervilliers à Saint- Denis et de Paris à la Courneuve pour des petits et grands écarts jonglés. En investissant les monuments, les rues, les places, le pavé et la plage, le jonglage se joue de l’espace urbain et réinvente un art très public.", 
             "description" : "",
-            "image" : "/assets/img/actualites/02-jonglage.jpg",
-            "imagewebp" : "/assets/img/actualites/02-jonglage.webp"
+            "image" : "/img/actualites/02-jonglage.jpg",
+            "imagewebp" : "/img/actualites/02-jonglage.webp"
           },
           {
             "title" : "Salle Mômes !", 
@@ -24,8 +24,8 @@
             "date" : "",
             "content" : "À l\"intérieur du Centre commercial Vill Up, le cinéma Pathé La Villette accueille les familles avec une salle IMAX et un son DOLBY ATMOS. Sa Salle Mômes ! est réservée aux enfants de 2 à 14 ans pour une sortie 7e art adaptée aux plus jeunes.", 
             "description" : "",
-            "image" : "/assets/img/actualites/03-salle-momes.jpg",
-            "imagewebp" : "/assets/img/actualites/03-salle-momes.webp"
+            "image" : "/img/actualites/03-salle-momes.jpg",
+            "imagewebp" : "/img/actualites/03-salle-momes.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -33,8 +33,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/04-chorus.jpg",
-            "imagewebp" : "/assets/img/actualites/04-chorus.webp"
+            "image" : "/img/actualites/04-chorus.jpg",
+            "imagewebp" : "/img/actualites/04-chorus.webp"
           },
           {
             "title" : "Le Festival Puy-de-Mômes", 
@@ -42,8 +42,8 @@
             "date" : "Du 7 au 18 avril",
             "content" : "Puy-de-Mômes relève le défi de placer l’enfant au cœur de sa programmation. Depuis la première édition en 1995, le Festival n’a cessé de se développer et sa fréquentation a été multipliée par 20.", 
             "description" : "",
-            "image" : "/assets/img/actualites/05-puy-de-momes.jpg",
-            "imagewebp" : "/assets/img/actualites/05-puy-de-momes.webp"
+            "image" : "/img/actualites/05-puy-de-momes.jpg",
+            "imagewebp" : "/img/actualites/05-puy-de-momes.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -51,8 +51,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/06-cecile-bergame.jpg",
-            "imagewebp" : "/assets/img/actualites/06-cecile-bergame.webp"
+            "image" : "/img/actualites/06-cecile-bergame.jpg",
+            "imagewebp" : "/img/actualites/06-cecile-bergame.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -60,8 +60,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/07-boite-a-outils2.jpg",
-            "imagewebp" : "/assets/img/actualites/07-boite-a-outils2.webp"
+            "image" : "/img/actualites/07-boite-a-outils2.jpg",
+            "imagewebp" : "/img/actualites/07-boite-a-outils2.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -69,8 +69,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/08-maxi-momes.jpg",
-            "imagewebp" : "/assets/img/actualites/08-maxi-momes.webp"
+            "image" : "/img/actualites/08-maxi-momes.jpg",
+            "imagewebp" : "/img/actualites/08-maxi-momes.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -78,8 +78,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/09-tataouiglala.jpg",
-            "imagewebp" : "/assets/img/actualites/09-tataouiglala.webp"
+            "image" : "/img/actualites/09-tataouiglala.jpg",
+            "imagewebp" : "/img/actualites/09-tataouiglala.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -87,8 +87,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/10-vendege.jpg",
-            "imagewebp" : "/assets/img/actualites/10-vendege.webp"
+            "image" : "/img/actualites/10-vendege.jpg",
+            "imagewebp" : "/img/actualites/10-vendege.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -96,8 +96,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/11-couleurs-enfance.jpg",
-            "imagewebp" : "/assets/img/actualites/11-couleurs-enfance.webp"
+            "image" : "/img/actualites/11-couleurs-enfance.jpg",
+            "imagewebp" : "/img/actualites/11-couleurs-enfance.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -105,8 +105,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/12-potjesman.jpg",
-            "imagewebp" : "/assets/img/actualites/12-potjesman.webp"
+            "image" : "/img/actualites/12-potjesman.jpg",
+            "imagewebp" : "/img/actualites/12-potjesman.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -114,8 +114,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/13-104.jpg",
-            "imagewebp" : "/assets/img/actualites/13-104.webp"
+            "image" : "/img/actualites/13-104.jpg",
+            "imagewebp" : "/img/actualites/13-104.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -123,8 +123,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/14-centre-pompidou.jpg",
-            "imagewebp" : "/assets/img/actualites/14-centre-pompidou.webp"
+            "image" : "/img/actualites/14-centre-pompidou.jpg",
+            "imagewebp" : "/img/actualites/14-centre-pompidou.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -132,8 +132,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/15-exploradome.jpg",
-            "imagewebp" : "/assets/img/actualites/15-exploradome.webp"
+            "image" : "/img/actualites/15-exploradome.jpg",
+            "imagewebp" : "/img/actualites/15-exploradome.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -141,8 +141,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/16-babel-minot.jpg",
-            "imagewebp" : "/assets/img/actualites/16-babel-minot.webp"
+            "image" : "/img/actualites/16-babel-minot.jpg",
+            "imagewebp" : "/img/actualites/16-babel-minot.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -150,8 +150,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/17-193soleil5.jpg",
-            "imagewebp" : "/assets/img/actualites/17-193soleil2.webp"
+            "image" : "/img/actualites/17-193soleil5.jpg",
+            "imagewebp" : "/img/actualites/17-193soleil2.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -159,8 +159,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/18-teatralia.jpg",
-            "imagewebp" : "/assets/img/actualites/18-teatralia.webp"
+            "image" : "/img/actualites/18-teatralia.jpg",
+            "imagewebp" : "/img/actualites/18-teatralia.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -168,8 +168,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/19-contes.jpg",
-            "imagewebp" : "/assets/img/actualites/19-contes.webp"
+            "image" : "/img/actualites/19-contes.jpg",
+            "imagewebp" : "/img/actualites/19-contes.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -177,8 +177,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/20-premieres-rencontres.jpg",
-            "imagewebp" : "/assets/img/actualites/20-premieres-rencontres.webp"
+            "image" : "/img/actualites/20-premieres-rencontres.jpg",
+            "imagewebp" : "/img/actualites/20-premieres-rencontres.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -186,8 +186,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/21-escape-game.jpg",
-            "imagewebp" : "/assets/img/actualites/21-escape-game.webp"
+            "image" : "/img/actualites/21-escape-game.jpg",
+            "imagewebp" : "/img/actualites/21-escape-game.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -195,8 +195,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/22-festival-oeil-de-momes.jpg",
-            "imagewebp" : "/assets/img/actualites/22-festival-oeil-de-momes.webp"
+            "image" : "/img/actualites/22-festival-oeil-de-momes.jpg",
+            "imagewebp" : "/img/actualites/22-festival-oeil-de-momes.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -204,8 +204,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/23-festival-culture-momes.jpg",
-            "imagewebp" : "/assets/img/actualites/23-festival-culture-momes.webp"
+            "image" : "/img/actualites/23-festival-culture-momes.jpg",
+            "imagewebp" : "/img/actualites/23-festival-culture-momes.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -213,8 +213,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/24-moult-ronds-cie-switch.jpg",
-            "imagewebp" : "/assets/img/actualites/24-moult-ronds-cie-switch.webp"
+            "image" : "/img/actualites/24-moult-ronds-cie-switch.jpg",
+            "imagewebp" : "/img/actualites/24-moult-ronds-cie-switch.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -222,8 +222,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/25-semaines-petite-enfance.jpg",
-            "imagewebp" : "/assets/img/actualites/25-semaines-petite-enfance.webp"
+            "image" : "/img/actualites/25-semaines-petite-enfance.jpg",
+            "imagewebp" : "/img/actualites/25-semaines-petite-enfance.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -231,8 +231,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/25-tres-tot-theatre.jpg",
-            "imagewebp" : "/assets/img/actualites/25-tres-tot-theatre.webp"
+            "image" : "/img/actualites/25-tres-tot-theatre.jpg",
+            "imagewebp" : "/img/actualites/25-tres-tot-theatre.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -240,8 +240,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/29-kernel.jpg",
-            "imagewebp" : "/assets/img/actualites/29-kernel.webp"
+            "image" : "/img/actualites/29-kernel.jpg",
+            "imagewebp" : "/img/actualites/29-kernel.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -249,8 +249,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/30-la-croisee-des-chemins.jpg",
-            "imagewebp" : "/assets/img/actualites/30-la-croisee-des-chemins.webp"
+            "image" : "/img/actualites/30-la-croisee-des-chemins.jpg",
+            "imagewebp" : "/img/actualites/30-la-croisee-des-chemins.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -258,8 +258,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/31-ouragane.jpg",
-            "imagewebp" : "/assets/img/actualites/31-ouragane.webp"
+            "image" : "/img/actualites/31-ouragane.jpg",
+            "imagewebp" : "/img/actualites/31-ouragane.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -267,8 +267,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/32-1-0-1.jpg",
-            "imagewebp" : "/assets/img/actualites/32-1-0-1.webp"
+            "image" : "/img/actualites/32-1-0-1.jpg",
+            "imagewebp" : "/img/actualites/32-1-0-1.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -276,8 +276,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/33-festival-brie-art.jpg",
-            "imagewebp" : "/assets/img/actualites/33-festival-brie-art.webp"
+            "image" : "/img/actualites/33-festival-brie-art.jpg",
+            "imagewebp" : "/img/actualites/33-festival-brie-art.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -285,8 +285,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/34-festival-franco.jpg",
-            "imagewebp" : "/assets/img/actualites/34-festival-franco.webp"
+            "image" : "/img/actualites/34-festival-franco.jpg",
+            "imagewebp" : "/img/actualites/34-festival-franco.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -294,8 +294,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/35-forenia.jpg",
-            "imagewebp" : "/assets/img/actualites/35-forenia.webp"
+            "image" : "/img/actualites/35-forenia.jpg",
+            "imagewebp" : "/img/actualites/35-forenia.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -303,8 +303,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/36-compagnie-ours.jpg",
-            "imagewebp" : "/assets/img/actualites/36-compagnie-ours.webp"
+            "image" : "/img/actualites/36-compagnie-ours.jpg",
+            "imagewebp" : "/img/actualites/36-compagnie-ours.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -312,8 +312,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/37-theatre-guimbarde.jpg",
-            "imagewebp" : "/assets/img/actualites/37-theatre-guimbarde.webp"
+            "image" : "/img/actualites/37-theatre-guimbarde.jpg",
+            "imagewebp" : "/img/actualites/37-theatre-guimbarde.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -321,8 +321,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/38-bambino.jpg",
-            "imagewebp" : "/assets/img/actualites/38-bambino.webp"
+            "image" : "/img/actualites/38-bambino.jpg",
+            "imagewebp" : "/img/actualites/38-bambino.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -330,8 +330,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/39-philharmonie.jpg",
-            "imagewebp" : "/assets/img/actualites/39-philharmonie.webp"
+            "image" : "/img/actualites/39-philharmonie.jpg",
+            "imagewebp" : "/img/actualites/39-philharmonie.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -339,8 +339,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/40-de-mains.jpg",
-            "imagewebp" : "/assets/img/actualites/40-de-mains.webp"
+            "image" : "/img/actualites/40-de-mains.jpg",
+            "imagewebp" : "/img/actualites/40-de-mains.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -348,8 +348,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/41-festival-contes.jpg",
-            "imagewebp" : "/assets/img/actualites/41-festival-contes.webp"
+            "image" : "/img/actualites/41-festival-contes.jpg",
+            "imagewebp" : "/img/actualites/41-festival-contes.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -357,8 +357,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/42-festival-o4vents.jpg",
-            "imagewebp" : "/assets/img/actualites/42-festival-o4vents.webp"
+            "image" : "/img/actualites/42-festival-o4vents.jpg",
+            "imagewebp" : "/img/actualites/42-festival-o4vents.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -366,8 +366,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/43-festival-parades.jpg",
-            "imagewebp" : "/assets/img/actualites/43-festival-parades.webp"
+            "image" : "/img/actualites/43-festival-parades.jpg",
+            "imagewebp" : "/img/actualites/43-festival-parades.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -375,8 +375,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/44-festival-ptites-oreilles.jpg",
-            "imagewebp" : "/assets/img/actualites/44-festival-ptites-oreilles.webp"
+            "image" : "/img/actualites/44-festival-ptites-oreilles.jpg",
+            "imagewebp" : "/img/actualites/44-festival-ptites-oreilles.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -384,8 +384,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/45-curieux.jpg",
-            "imagewebp" : "/assets/img/actualites/45-curieux.webp"
+            "image" : "/img/actualites/45-curieux.jpg",
+            "imagewebp" : "/img/actualites/45-curieux.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -393,8 +393,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/46-bretagne.jpg",
-            "imagewebp" : "/assets/img/actualites/46-bretagne.webp"
+            "image" : "/img/actualites/46-bretagne.jpg",
+            "imagewebp" : "/img/actualites/46-bretagne.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -402,8 +402,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/47-chaboti.jpg",
-            "imagewebp" : "/assets/img/actualites/47-chaboti.webp"
+            "image" : "/img/actualites/47-chaboti.jpg",
+            "imagewebp" : "/img/actualites/47-chaboti.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -411,8 +411,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/48-teamlab.jpg",
-            "imagewebp" : "/assets/img/actualites/48-teamlab.webp"
+            "image" : "/img/actualites/48-teamlab.jpg",
+            "imagewebp" : "/img/actualites/48-teamlab.webp"
           },
           {
             "title" : "Festival Chorus des enfants", 
@@ -420,8 +420,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/49-place-aux-marmots.jpg",
-            "imagewebp" : "/assets/img/actualites/49-place-aux-marmots.webp"
+            "image" : "/img/actualites/49-place-aux-marmots.jpg",
+            "imagewebp" : "/img/actualites/49-place-aux-marmots.webp"
           },
           {
             "title" : "YOP", 
@@ -429,8 +429,8 @@
             "date" : "Du 7 au 8 avril",
             "content" : "@lefestivalchorus, Depuis son origine, le Chorus des Enfants n\"a eu de cesse d\"offrir aux plus petits une programmation riche de toutes les musiques, tous les genres et toutes les cultures confondues.", 
             "description" : "",
-            "image" : "/assets/img/actualites/50-rock-ici-momes.jpg",
-            "imagewebp" : "/assets/img/actualites/50-rock-ici-momes.webp"
+            "image" : "/img/actualites/50-rock-ici-momes.jpg",
+            "imagewebp" : "/img/actualites/50-rock-ici-momes.webp"
           }
         ]
 }

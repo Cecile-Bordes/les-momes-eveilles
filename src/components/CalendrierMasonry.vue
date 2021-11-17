@@ -19,14 +19,10 @@
                                     </div> 
                                     <div class="flex-shrink-0">
                                           <picture>
-                                              <!--<source :srcset="item.imagewebp" type="image/webp" :alt="item.title" loading="lazy" class="w-full h-full object-center object-cover" width="310" height="310" />
-                                              <img :src="item.image" type="image/jpeg" :alt="item.title" loading="lazy" class="w-full h-full object-center object-cover" width="310" height="310" />-->
-                                              <!--<span :key="image" v-for="image in spectaclesimages"> 
-                                                <img :src="letterIcon(image)" />
-                                              </span>-->
-                                              {{spectacle.image}}
+                                              <source :srcset="spectacle.imagewebp" type="image/webp" :alt="spectacle.titre" loading="lazy" class="w-full h-full object-center object-cover" width="310" height="310" />
+                                              <img :src="spectacle.image" type="image/jpeg" :alt="spectacle.titre" loading="lazy" class="w-full h-full object-center object-cover" width="310" height="310" />
                                           </picture>
-                                    </div> 
+                                    </div>  
                                     <div class="flex-1 p-6 flex flex-col justify-between">
                                           <div class="flex-1">
                                               <div class="block">
@@ -41,7 +37,6 @@
                                     </div>
                                 </a>
                         </article>
-                        
                     </template>
               </vue-masonry-wall>
             </div>
@@ -64,15 +59,20 @@ export default {
             
     },
     computed: {
+        
         spectacles() {
           return eventsData.spectacles.map((item) => {
-            //this.image = require("@"+item.image);
+            //this.image = require("@"+item.image);            
             return {
                 description: item.content,
                 titre: item.title,
                 date: item.date,
                 map: item.map,
                 image: item.image,
+                imagewebp: item.imagewebp,
+                //image: require(`@`+item.image),
+                //icon: require("@" + item.image)
+                
             };
           })
         },
@@ -83,6 +83,12 @@ export default {
               this.items.push({title: `Item ${this.items.length}`, content: 'Content'})
             }
           },
+          loadImg: function (path) {
+            require(path)
+          },
+          //getIconPath (iconName) {
+              //return iconName ? require(`../assets/${iconName}`) : ''
+          //},
           //letterIcon: function(image) {
             //return require("@/" + image);
           //},
